@@ -2,7 +2,7 @@
 layout: post
 title:  Test disqus
 date:   2020-05-10
-categories: test, debug
+categories: [test, debug]
 comments: true
 ---
 
