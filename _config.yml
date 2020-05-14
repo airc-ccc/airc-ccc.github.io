@@ -28,7 +28,7 @@ url: "https://airc-ccc.github.io" # the base hostname & protocol for your site, 
 sass:
   style: compressed
   sass_dir: _scss    
-# theme: minima
+theme: minima
 # Disqus Comments
 disqus:
   # Leave shortname blank to disable comments site-wide.
