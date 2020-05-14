@@ -32,6 +32,6 @@ theme: minima
 # Disqus Comments
 disqus:
   # Leave shortname blank to disable comments site-wide.
-  shortname: pengtaoblog
+  shortname: pengtao-blog
 
 google_analytics: UA-132828505-3
