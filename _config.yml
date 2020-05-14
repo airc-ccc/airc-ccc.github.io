@@ -32,6 +32,6 @@ sass:
 # Disqus Comments
 disqus:
   # Leave shortname blank to disable comments site-wide.
-  shortname: pengtao2001
+  shortname: pengtaoblog
 
 google_analytics: UA-132828505-3
