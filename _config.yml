@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Pengtao's Blog
+title: Airc's Blog
 email: taopeng2001@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   始于足下
@@ -32,6 +32,6 @@ theme: minima
 # Disqus Comments
 disqus:
   # Leave shortname blank to disable comments site-wide.
-  shortname: pengtao-blog
+  shortname: airc-blog
 
 google_analytics: UA-132828505-3
