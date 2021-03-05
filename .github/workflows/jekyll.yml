@@ -12,6 +12,10 @@ jobs:
     runs-on: ubuntu-20.04
 
     steps:
+    - name: Install somthing.
+      run: bundle install
+
+    steps:
     - name: Build Project.
       run: |
           bundle exec jekyll build
