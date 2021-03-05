@@ -13,9 +13,9 @@ jobs:
 
     steps:
     - name: Install somthing.
-      run: bundle install
+      run: |
+        bundle install
 
-    steps:
     - name: Build Project.
       run: |
           bundle exec jekyll build
