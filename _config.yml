@@ -35,3 +35,8 @@ disqus:
   shortname: airc-blog
 
 google_analytics: UA-132828505-3
+
+collections:
+  my_collection:
+    output: true
+    permalink: /:collection/:title

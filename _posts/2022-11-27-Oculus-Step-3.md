@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Oculus Unity Step Three"
+name:  "Page Name: Oculus Unity Step Three"
 date:   2022-11-27
 categories: VR, Unity, Oculus Quest2
 comments: true
