@@ -24,7 +24,7 @@ comments: true
 ### 额外的操作
 这里利用操作组件的方法，可以改变Ball的颜色以及复制Ball，GameObject的操作
 
-```C#
+{% highlight c# %}
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -121,5 +121,4 @@ public class GreaterBall : MonoBehaviour
         return color;
     }
 }
-
-```
+{% endhighlight %}
