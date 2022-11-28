@@ -3,12 +3,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" a="b" href="{{ "/assets/main.css" | relative_url }}">
+  <title>{{ page.title | site.title | "Aric's Blog"}}</title>
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
-  {%- endif -%}
-  {%- if page -%}
-    <title>{%- page.title -%}</title>
-  {%- else -%}
-    <title>{%- site.title -%}</title>
   {%- endif -%}
 </head>
