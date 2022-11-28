@@ -6,7 +6,7 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
-  {%- if page.title != null -%}
+  {%- if page -%}
     <title>{%- page.title -%}</title>
   {%- else -%}
     <title>{%- site.title -%}</title>
